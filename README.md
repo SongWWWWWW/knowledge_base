@@ -8,7 +8,7 @@
 `pip install -r requirements_webui.txt`
 
 ## 相关的对话信息以及api的使用在webui_page/dialogue/dialogue.py文件中
-#快速运行
+# 快速运行
 """
 bash run.sh
 """
