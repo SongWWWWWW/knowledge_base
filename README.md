@@ -1,10 +1,9 @@
 
 # 按照下面步骤进行环境配置
-
-`conda create -n chatchat python=3.10`
-
-`conda activate chatchat`
-
+'''bash
+conda create -n chatchat python=3.10
+conda activate chatchat
+'''
 `pip install -r requirements.txt `
 
 `pip install -r requirements_api.txt`
